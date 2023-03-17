@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(void){
-  int qtdprocessos
+  int qtdprocessos;
   float TME, TMP, somaTMP, somaTME;
   printf("Escalonamento não-preemptível FIFO E SJF de processos\nDigite a quantidade de processos:");
   scanf("%d", &qtdProcessos);
